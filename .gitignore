@@ -28,24 +28,6 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb
 
-# Data files
-data/
-*.csv
-*.xlsx
-*.xls
-*.json
-*.parquet
-*.pkl
-*.pickle
-
-# Output & generated files
-*.png
-*.jpg
-*.jpeg
-*.pdf
-outputs/
-results/
-
 # IDE
 .vscode/
 .idea/
